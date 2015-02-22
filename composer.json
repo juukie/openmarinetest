@@ -1,0 +1,13 @@
+{
+    "name": "juukie/xmltest",
+    "description": "XML read test",
+    "require": {
+        "suramon/simple-xml-reader": "~1.1"
+    },
+    "authors": [
+        {
+            "name": "Jürgen van Dijk",
+            "email": "j.vandijk@activecreations.nl"
+        }
+    ]
+}

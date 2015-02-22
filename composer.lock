@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7c354169b0a23d8397236ca6c347d083",
+    "packages": [
+        {
+            "name": "suramon/simple-xml-reader",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SuRaMoN/simplexmlreader.git",
+                "reference": "c3e92dd528bcbf049d7b235a994e8c2ea6033c05"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/SuRaMoN/simplexmlreader/zipball/c3e92dd528bcbf049d7b235a994e8c2ea6033c05",
+                "reference": "c3e92dd528bcbf049d7b235a994e8c2ea6033c05",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "SimpleXmlReader\\": [
+                        "src/"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE"
+            ],
+            "authors": [
+                {
+                    "name": "SuRaMoN",
+                    "homepage": "https://github.com/SuRaMoN"
+                }
+            ],
+            "description": "The power of SimpleXmlElement, combined with the resource-friendliness of XmlReader",
+            "homepage": "https://github.com/SuRaMoN/SimpleXmlReader",
+            "time": "2014-05-02 22:28:16"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
